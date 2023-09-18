@@ -50,7 +50,7 @@ class ApiHelper {
         headers: {
           'Accept': 'application/json',
           'Content-Type': 'application/json',
-          'Authorization': 'token 014658f9afe6cbd:e4904f8f7fb6632',
+          'Authorization': 'token 014658f9afe6cbd:9b95f8a2cefc0ce',
         },
       );
 
@@ -78,7 +78,7 @@ class ApiHelper {
         Url,
         headers: {
           'Content-Type': 'application/json',
-          'Authorization': 'token 014658f9afe6cbd:e4904f8f7fb6632',
+          'Authorization': 'token 014658f9afe6cbd:9b95f8a2cefc0ce',
         },
       );
 
