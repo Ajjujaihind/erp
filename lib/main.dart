@@ -2,7 +2,7 @@ import 'package:erp/provider/erp_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-import 'screens/onboarding/loginpage.dart';
+
 import 'screens/splashpage.dart';
 
 void main() {

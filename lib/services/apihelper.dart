@@ -7,7 +7,7 @@ import '../model.dart/mymodel.dart';
 import '../model.dart/productdetailsmodel.dart';
 
 class ApiHelper {
-  Future<MyModel> login(email, password) async {
+  Future<MyModel> login(String email, String password) async {
     final loginUrl =
         Uri.parse('https://demo.extensionerp.com/api/method/login');
 
